@@ -1,5 +1,3 @@
-### About me
-
 ##### Hello, I'm Ian :astronaut: from :philippines: I'm curious to see what's under the hood so I destroy and build things!! :grin:
 ######  Currently working as a Senior Software Engineer :neckbeard: :computer: @ ![cropped-favicon-32x32](https://github.com/ioliveros/ioliveros/assets/7599688/4c935dbc-814f-4f6d-9cbc-1baa61cb6cbc) 
 
