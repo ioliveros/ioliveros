@@ -3,8 +3,7 @@
 ##### Hello, I'm Ian :astronaut: from :philippines: I'm curious to see what's under the hood so destroy and build things!! :grin:
 ######  Currently working as a Senior Software Engineer :neckbeard: :computer: @ ![cropped-favicon-32x32](https://github.com/ioliveros/ioliveros/assets/7599688/4c935dbc-814f-4f6d-9cbc-1baa61cb6cbc) 
 
-
-###### I mostly write :pencil2: & code :keyboard: :computer: in 
+######      I mostly write :pencil2: & code :keyboard: :computer: in 
 ![icons8-python-48](https://github.com/ioliveros/ioliveros/assets/7599688/2dd0659c-5def-4a75-ae98-9dd73ddadb7a) 
 ![icons8-javascript-48](https://github.com/ioliveros/ioliveros/assets/7599688/e2e1352b-6d78-4dc6-a5fb-d662aed0f765) 
 ![icons8-nodejs-48](https://github.com/ioliveros/ioliveros/assets/7599688/9825aac6-8868-4ab0-9133-a8d9c1d8298b) 
