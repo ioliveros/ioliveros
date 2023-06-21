@@ -42,4 +42,4 @@
 ![solo-vs-boba-removebg-preview](https://github.com/ioliveros/ioliveros/assets/7599688/02090512-cc89-4d8a-be84-dd12fa405345)
 
 
-##### Feel free to connect, and slide a DM on my socials or email me at ioliveros.dev@gmail.com :astronaut: 
+##### Feel free to connect, and slide a dm on my socials or email me at ioliveros.dev@gmail.com :astronaut: 
