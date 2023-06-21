@@ -37,7 +37,7 @@
 ![icons8-flutter-50](https://github.com/ioliveros/ioliveros/assets/7599688/9f36cf3a-97cb-42e0-83b2-b1fc93041226)
 
 
-###### And Please.. help me find those fresh intergalactic bounties! Let's collab! :moneybag: :heavy_dollar_sign: :dollar: :dollar: :coin: 
+###### And Please.. help me find those fresh internetgalactic bounties! Let's collab! :moneybag: :heavy_dollar_sign: :dollar: :dollar: :coin: 
 
 ![solo-vs-boba-removebg-preview](https://github.com/ioliveros/ioliveros/assets/7599688/02090512-cc89-4d8a-be84-dd12fa405345)
 
