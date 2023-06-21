@@ -17,6 +17,11 @@
 ![icons8-kubernetes-48](https://github.com/ioliveros/ioliveros/assets/7599688/a383760a-2008-44ed-959b-8e3e821c2a3e)
 ![icons8-jenkins-48](https://github.com/ioliveros/ioliveros/assets/7599688/bee672e9-c47f-4215-ba8e-80164f9e0969)
 
+###### My preferred cloud platforms to deploy cloud apps :money_with_wings:	:money_with_wings: :money_with_wings:	
+
+![icons8-amazon-web-services-48](https://github.com/ioliveros/ioliveros/assets/7599688/8b1b0b52-5755-45b4-a583-f268e39b69bf)
+![icons8-google-cloud-platform-48](https://github.com/ioliveros/ioliveros/assets/7599688/24d9c0cd-4ed7-4ae3-b5b1-b086451b423f)
+
 
 ###### I'm interested in learning .. 
 ![icons8-rust-28](https://github.com/ioliveros/ioliveros/assets/7599688/ca2745d9-3bcb-41ea-ac4f-4ca894349ee0)
