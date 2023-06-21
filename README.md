@@ -9,7 +9,7 @@
 ![icons8-golang-48](https://github.com/ioliveros/ioliveros/assets/7599688/17dcc2c6-d06d-46f3-a6e5-016e84824e4b)
 ![icons8-java-48](https://github.com/ioliveros/ioliveros/assets/7599688/053ead4a-fd9d-415b-b8af-fa59f8765746)
 
-###### I use this for my development toolset
+###### I use these as my development toolset
 
 ![icons8-docker-48](https://github.com/ioliveros/ioliveros/assets/7599688/d0bb5de4-2d40-4f04-9e4d-5ed10c6bea51)
 ![icons8-kubernetes-48](https://github.com/ioliveros/ioliveros/assets/7599688/a383760a-2008-44ed-959b-8e3e821c2a3e)
