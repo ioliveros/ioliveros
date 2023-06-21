@@ -29,7 +29,8 @@
 
 
 ###### Help me find those fresh intergalactic bounties! :moneybag: :heavy_dollar_sign: :dollar: :dollar: :coin: 
-![image-boba-fett](https://github.com/ioliveros/ioliveros/assets/7599688/2965bd56-7f49-43a6-a3f6-19d9cd9ad065)
+
+![solo-vs-boba-removebg-preview](https://github.com/ioliveros/ioliveros/assets/7599688/02090512-cc89-4d8a-be84-dd12fa405345)
 
 
 ##### Feel free to connect slide a DM on my socials or email me at ioliveros.dev@gmail.com :bowtie:
