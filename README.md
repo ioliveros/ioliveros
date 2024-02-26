@@ -22,7 +22,7 @@
 ![icons8-google-cloud-platform-48](https://github.com/ioliveros/ioliveros/assets/7599688/24d9c0cd-4ed7-4ae3-b5b1-b086451b423f)
 
 
-###### I'm interested in machine learning .. (let's be friendly with the :robot:) and Big Data.
+###### I'm interested in Big Data and Machine Learning .. (let's be friendly with the :robot:)
 
 ![icons8-artificial-intelligence-64](https://github.com/ioliveros/ioliveros/assets/7599688/fbc02360-7a6a-49ba-ac13-1198a5447d86) + 
 ![icons8-big-data-100](https://github.com/ioliveros/ioliveros/assets/7599688/4639ea55-eabf-4be0-9d0f-cfbdfd49f2b3)
