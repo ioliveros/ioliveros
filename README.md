@@ -11,11 +11,11 @@
 ### 🛰️ About me
 
 - 👨‍💻 senior software engineer by trade, electronics engineer by degree (and a few soldering burns)
-- 🔧 if it has screws, i’ve opened it. if it doesn’t, i’ve tried
+- 🔧 if it has screws, i've opened it. if it doesn't, i've tried
 - 🛡️ into cybersecurity, because breaking things is half the fun
 - 📈 still nerding out on big data and classic ml, from back when models fit on a laptop
 - 🤖 building rag pipelines and mcp systems, exploring generative ui. basically teaching robots to read the docs
-- 💰 always hunting fresh intergalactic bounties. got one? let’s collab!
+- 💰 always hunting fresh intergalactic bounties. got one? let's collab!
 - 🧑‍🌾 learning to grow potatoes, as a backup plan for the ai apocalypse
 
 ---
@@ -69,16 +69,16 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img width="700" src="./profile-summary-card-output/chartreuse-dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="346" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img width="346" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img width="346" src="./profile-summary-card-output/chartreuse-dark/3-stats.svg" />
+  <img width="346" src="./profile-summary-card-output/chartreuse-dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=ioliveros&theme=tokyonight&hide_border=true&card_width=700" />
+  <img width="700" src="https://streak-stats.demolab.com?user=ioliveros&hide_border=true&card_width=700&background=0D1117&stroke=1F3D1F&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 ---
@@ -90,5 +90,6 @@
 </p>
 
 <p align="center">
-  got an interesting problem, side project, or contract? drop me a line at <a href="mailto:ioliveros.dev@gmail.com"><b>ioliveros.dev@gmail.com</b></a> 👨‍🚀
+  Got an interesting problem, side project, or contract? <br/>
+  Slide into my DMs or drop me a line at <a href="mailto:ioliveros.dev@gmail.com"><b>ioliveros.dev@gmail.com</b></a> 👨‍🚀
 </p>
