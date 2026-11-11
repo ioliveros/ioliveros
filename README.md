@@ -10,11 +10,13 @@
 
 ### 🛰️ About me
 
-- 👨‍💻 senior software engineer from the 🇵🇭 philippines
-- 🔧 always curious about what's under the hood
-- 🤖 building rag pipelines and mcp systems, exploring generative ui, still nerding out on big data and classic ml
-- 🛡️ into cybersecurity, because breaking things is half the fun
-- 💰 always hunting fresh intergalactic bounties. let's collab!
+👨‍💻 senior software engineer by trade, electronics engineer by degree (and a few soldering burns)
+🔧 if it has screws, i’ve opened it. if it doesn’t, i’ve tried
+🛡️ into cybersecurity, because breaking things is half the fun
+📈 still nerding out on big data and classic ml, from back when models fit on a laptop
+🤖 building rag pipelines and mcp systems, exploring generative ui. basically teaching robots to read the docs
+💰 always hunting fresh intergalactic bounties. got one? let’s collab!
+🧑‍🌾 learning to grow potatoes, as a backup plan for the ai apocalypse
 
 ---
 
