@@ -1,45 +1,86 @@
-##### Hello, I'm Ian :astronaut: from :philippines: I'm curious to see what's under the hood so I destroy and build things!! :grin:
-######  Currently working as a Senior Software Engineer :neckbeard: :computer:
+<h1 align="center">Hey, I'm Ian 👨‍🚀</h1>
 
-######      I mostly write :pencil2: & code :keyboard: :computer: in 
-![icons8-python-48](https://github.com/ioliveros/ioliveros/assets/7599688/2dd0659c-5def-4a75-ae98-9dd73ddadb7a) 
-![icons8-javascript-48](https://github.com/ioliveros/ioliveros/assets/7599688/e2e1352b-6d78-4dc6-a5fb-d662aed0f765) 
-![icons8-nodejs-48](https://github.com/ioliveros/ioliveros/assets/7599688/9825aac6-8868-4ab0-9133-a8d9c1d8298b) 
-![icons8-golang-48](https://github.com/ioliveros/ioliveros/assets/7599688/17dcc2c6-d06d-46f3-a6e5-016e84824e4b)
-![icons8-java-48](https://github.com/ioliveros/ioliveros/assets/7599688/053ead4a-fd9d-415b-b8af-fa59f8765746)
+<p align="center">
+  <a href="https://fce3c74cqtiaq4z6yyvyexpawu0moiex.lambda-url.us-west-1.on.aws/"><img src="https://img.shields.io/badge/Website-ioliveros.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:ioliveros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ioliveros.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ioliveros&style=for-the-badge&color=58A6FF&label=Profile+views" />
+</p>
 
-###### I use these as my development toolset
+---
 
-![icons8-docker-48](https://github.com/ioliveros/ioliveros/assets/7599688/d0bb5de4-2d40-4f04-9e4d-5ed10c6bea51)
-![icons8-kubernetes-48](https://github.com/ioliveros/ioliveros/assets/7599688/a383760a-2008-44ed-959b-8e3e821c2a3e)
-![icons8-jenkins-48](https://github.com/ioliveros/ioliveros/assets/7599688/bee672e9-c47f-4215-ba8e-80164f9e0969)
-![icons8-chatgpt-48](https://github.com/ioliveros/ioliveros/assets/7599688/a98ced6e-474e-4101-bb26-26710411d41e)
+### 🛰️ About me
 
+- 👨‍💻 senior software engineer from the 🇵🇭 philippines
+- 🔧 always curious about what's under the hood
+- 🤖 building rag pipelines and mcp systems, exploring generative ui, still nerding out on big data and classic ml
+- 🛡️ into cybersecurity, because breaking things is half the fun
+- 💰 always hunting fresh intergalactic bounties. let's collab!
 
-###### My preferred cloud platforms to deploy cloud apps :money_with_wings:	:money_with_wings: :money_with_wings:	
+---
 
-![icons8-amazon-web-services-48](https://github.com/ioliveros/ioliveros/assets/7599688/8b1b0b52-5755-45b4-a583-f268e39b69bf)
-![icons8-google-cloud-platform-48](https://github.com/ioliveros/ioliveros/assets/7599688/24d9c0cd-4ed7-4ae3-b5b1-b086451b423f)
+### 🧰 Tech stack
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2F6868?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_UI-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-1F2A44?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 
-###### I'm interested in Big Data and Machine Learning .. (let's be friendly with the :robot:)
+---
 
-![icons8-artificial-intelligence-64](https://github.com/ioliveros/ioliveros/assets/7599688/fbc02360-7a6a-49ba-ac13-1198a5447d86) + 
-![icons8-big-data-100](https://github.com/ioliveros/ioliveros/assets/7599688/4639ea55-eabf-4be0-9d0f-cfbdfd49f2b3)
-![icons8-big-data-64](https://github.com/ioliveros/ioliveros/assets/7599688/76bd3823-5251-42ba-b6cd-68fe69212d7c)
+### 📊 GitHub stats
 
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
 
+<p align="center">
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
 
-###### and with these tools
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ioliveros&theme=tokyonight&hide_border=true" />
+</p>
 
-![icons8-rust-28](https://github.com/ioliveros/ioliveros/assets/7599688/ca2745d9-3bcb-41ea-ac4f-4ca894349ee0)
-![icons8-flutter-50](https://github.com/ioliveros/ioliveros/assets/7599688/9f36cf3a-97cb-42e0-83b2-b1fc93041226)
+---
 
+### 🎯 Open for bounties
 
-###### help me find those fresh internetgalactic bounties! Let's collab! :moneybag: :heavy_dollar_sign: :dollar: :dollar: :coin: 
+<p align="center">
+  <img src="https://github.com/ioliveros/ioliveros/assets/7599688/02090512-cc89-4d8a-be84-dd12fa405345" width="320" alt="Solo vs Boba" />
+</p>
 
-![solo-vs-boba-removebg-preview](https://github.com/ioliveros/ioliveros/assets/7599688/02090512-cc89-4d8a-be84-dd12fa405345)
-
-
-##### Feel free to connect, and slide a dm on my socials or email me at ioliveros.dev@gmail.com :astronaut: 
-##### [ioliveros.dev](https://fce3c74cqtiaq4z6yyvyexpawu0moiex.lambda-url.us-west-1.on.aws/)
+<p align="center">
+  Got an interesting problem, side project, or contract? <br/>
+  Slide into my DMs or drop me a line at <a href="mailto:ioliveros.dev@gmail.com"><b>ioliveros.dev@gmail.com</b></a> 👨‍🚀
+</p>
