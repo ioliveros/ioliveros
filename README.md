@@ -90,6 +90,5 @@
 </p>
 
 <p align="center">
-  Got an interesting problem, side project, or contract? <br/>
-  Slide into my DMs or drop me a line at <a href="mailto:ioliveros.dev@gmail.com"><b>ioliveros.dev@gmail.com</b></a> 👨‍🚀
+  got an interesting problem, side project, or contract? drop me a line at <a href="mailto:ioliveros.dev@gmail.com"><b>ioliveros.dev@gmail.com</b></a> 👨‍🚀
 </p>
